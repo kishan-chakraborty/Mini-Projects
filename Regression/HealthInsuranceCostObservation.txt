@@ -1,0 +1,17 @@
+1. No null values
+2. Shape of the data set: (1338, 7)
+3. Features ['age', 'sex', 'bmi', 'children', 'smoker', 'region', 'charges']
+4. Numerical features ['age', 'bmi', 'children', 'charges']
+5. Categorical features ['sex', 'smoker', 'region']
+
+INFERENCES FROM THE DATA:
+Numerical Features:
+** The age distribition shows a almost normal curve. Minimum age is 18 and maximum is 65. Most of people belongs to age
+ group of 18-21 and people of other age group are almost same.
+
+** BMI shows a normal distribution. Mean BMI is around 30 whereas maximum is 53 and minimum is 15. 
+
+Categorical Features:
+** There are way more smoker than non-smoker. 1064:274
+** Dataset contains almost all the region in equal proportions.
+** There are 676 male and 662 female.
